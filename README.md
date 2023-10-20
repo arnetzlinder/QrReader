@@ -1,2 +1,2 @@
 # QrReader
-My first test of vue qrreader
+My first test of vue QRreader
